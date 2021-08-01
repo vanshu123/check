@@ -9,6 +9,7 @@
  * { box-sizing: border-box;}
 body { background-color: #5280C5;
       color: #003366;
+overflow-x:hidden;
 	  font-family: Verdana, Arial, sans-serif;
 	  margin: 0;
 line-height:1.5em;
